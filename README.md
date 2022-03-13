@@ -1,3 +1,3 @@
 # SPACEBOY
 
-https://spaceboy.vercel.app/
+https://zelensky.vercel.app/
